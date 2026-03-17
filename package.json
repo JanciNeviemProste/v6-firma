@@ -1,0 +1,31 @@
+{
+  "name": "v6-firma",
+  "version": "1.0.0",
+  "description": "\"Prezentačná stránka pre elektrikára Petra z Bratislavy | Created by AI Bot",
+  "main": "vite.config.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JanciNeviemProste/v6-firma.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/JanciNeviemProste/v6-firma/issues"
+  },
+  "homepage": "https://github.com/JanciNeviemProste/v6-firma#readme",
+  "dependencies": {
+    "@tailwindcss/vite": "^4.2.1",
+    "@vitejs/plugin-react": "^6.0.1",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "tailwindcss": "^4.2.1",
+    "vite": "^8.0.0"
+  }
+}
